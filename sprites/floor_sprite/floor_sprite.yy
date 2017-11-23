@@ -2,7 +2,7 @@
     "id": "9ef7d0a0-da10-4d3a-b87d-10293a4f0c12",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite1",
+    "name": "floor_sprite",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -13,6 +13,7 @@
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
+    "edgeFiltering": false,
     "frames": [
         {
             "id": "6256e056-3265-422d-aa13-5d450236b601",
@@ -54,6 +55,7 @@
         }
     ],
     "origin": 0,
+    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
