@@ -19,7 +19,7 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
+            "name": "Collision",
             "id": "9c8494a7-9e2d-4199-9c24-80c105939259",
             "depth": 0,
             "grid_x": 32,

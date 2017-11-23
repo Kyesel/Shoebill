@@ -146,7 +146,7 @@
             "Key": "9120f5dc-f50b-4935-b1db-7ef093fc1dd6",
             "Value": {
                 "id": "59092ae9-3c77-48e3-a0c2-453153b79a51",
-                "resourcePath": "scripts\\script0\\script0.yy",
+                "resourcePath": "scripts\\meleeAttack\\meleeAttack.yy",
                 "resourceType": "GMScript"
             }
         },
