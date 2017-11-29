@@ -7,3 +7,4 @@ if(numberOfJumps > 0)
 	extendJumpSpeed = defaultExtendJumpSpeed;
 	alarm[1] = 25;
 }
+meleeAttack(1, Attack);
