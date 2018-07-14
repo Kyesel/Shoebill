@@ -9,3 +9,5 @@ vsp = 0;
 moving = false;
 numberOfJumps = 0;
 jumping = false;
+directionFacingHorizontal = 1;
+directionFacingVertical = 0;

@@ -37,6 +37,15 @@ if(place_meeting(x, y-5, Floor))
 }
 y += vsp;
 
+if(hsp > 0)
+{
+	directionFacingHorizontal = 1;	
+}
+if(hsp < 0)
+{
+	directionFacingHorizontal = -1;	
+}
+
 
 
 

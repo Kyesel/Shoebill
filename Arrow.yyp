@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "991bd867-a982-4320-bf67-416bce8343fb",
+            "Value": {
+                "id": "87335142-0731-4a27-8436-0e42d9187606",
+                "resourcePath": "sprites\\attack_sprite\\attack_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9c54fc6e-2bb0-4990-bba6-c216668d86c7",
             "Value": {
                 "id": "f2c9d9c7-8291-4436-9052-ece53fd9aa73",
