@@ -25,6 +25,7 @@ x += hsp;
 if(place_meeting(x, y+vsp, Floor))
 {
 	numberOfJumps = 1;
+	directionFacingVertical = 0;
 	if(!place_meeting(x, y+sign(vsp), Floor))
 	{
 		y += sign(vsp);
@@ -36,15 +37,6 @@ if(place_meeting(x, y-5, Floor))
 	jumping = false;
 }
 y += vsp;
-
-if(hsp > 0)
-{
-	directionFacingHorizontal = 1;	
-}
-if(hsp < 0)
-{
-	directionFacingHorizontal = -1;	
-}
 
 
 

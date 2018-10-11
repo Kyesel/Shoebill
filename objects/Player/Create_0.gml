@@ -9,5 +9,7 @@ vsp = 0;
 moving = false;
 numberOfJumps = 0;
 jumping = false;
+enum directions {HOR, VER};
+lastPressed = directions.HOR;
 directionFacingHorizontal = 1;
 directionFacingVertical = 0;
