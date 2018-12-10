@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0b9ab303-b265-4078-bad8-4eb4bfe0e57b",
+            "Value": {
+                "id": "4faed992-1e31-42c0-acf5-c95ec941cbf6",
+                "resourcePath": "rooms\\Initializer_Room\\Initializer_Room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2818ff1f-cee2-412d-9b5f-6efd77a32ab3",
             "Value": {
                 "id": "5af3c579-1eda-4aaf-8734-53fe43415bdf",

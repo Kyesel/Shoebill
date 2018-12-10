@@ -26,6 +26,8 @@ if(place_meeting(x, y+vsp, Floor))
 {
 	numberOfJumps = 1;
 	directionFacingVertical = 0;
+	lastPressed = directions.HOR;
+	
 	if(!place_meeting(x, y+sign(vsp), Floor))
 	{
 		y += sign(vsp);
