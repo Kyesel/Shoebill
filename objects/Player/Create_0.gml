@@ -1,8 +1,8 @@
 /// @description Initialize
 moveSpeed = 10;
-jumpSpeed = 7;
-defaultExtendJumpSpeed = 10;
-extendJumpSpeed = 10;
+jumpSpeed = 5;
+defaultExtendJumpSpeed = 7;
+extendJumpSpeed = 7;
 grav = 1;
 hsp = 0;
 vsp = 0;
